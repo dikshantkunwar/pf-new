@@ -1,0 +1,10 @@
+.footer {
+  border-top: 1px solid #333;
+  color: #aaa;
+  padding: 24px;
+  text-align: center;
+}
+
+.netlifyLogo {
+  height: 1em;
+}

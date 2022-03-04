@@ -1,0 +1,9 @@
+.nav {
+  padding: 12px;
+  text-align: right;
+}
+
+.link {
+  display: inline-block;
+  padding: 12px;
+}
